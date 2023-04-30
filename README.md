@@ -18,7 +18,7 @@ Berikut adalah beberapa tools yang saya gunakan dalam mengembangkan aplikasi:
 ## Kontak Saya
 
 <!-- Button WhatsApp -->
-<a href="https://wa.me/628xxxxxx" target="_blank" rel="noopener">
+<a href="https://wa.me/6281231850242" target="_blank" rel="noopener">
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp">
 </a>
 
