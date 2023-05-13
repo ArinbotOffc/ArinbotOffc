@@ -33,6 +33,6 @@ Berikut adalah beberapa tools yang saya gunakan dalam mengembangkan aplikasi:
 </a>
 
 <!-- Website -->
-<a href="https://ArinBot.github.io/Dashboard" target="_blank" rel="noopener">Website</a>
+<a href="https://arinbotoffc.github.io/Dashboard" target="_blank" rel="noopener">Website</a>
 
 Jangan ragu untuk mengajukan pertanyaan atau meminta bantuan, saya akan dengan senang hati membantu Anda dalam hal pengembangan web dan programming.
